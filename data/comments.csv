@@ -1,0 +1,4 @@
+id,userId,postId,text,createdAt
+c1,u1,p1,Muito interessante!,2026-04-06T11:00:00
+c2,u3,p1,Concordo com essa análise,2026-04-06T11:10:00
+c3,u2,p2,Neo4j combina muito com esse caso,2026-04-06T11:20:00
